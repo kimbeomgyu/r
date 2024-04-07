@@ -1,0 +1,12 @@
+[book]
+title = "Example book"
+authors = ["kimbeomgyu"]
+description = "The example book covers examples."
+language = "ko-KR"
+text-direction = "ltr"
+
+[rust]
+edition = "2021"
+
+[output.html]
+default-theme = "rust"
